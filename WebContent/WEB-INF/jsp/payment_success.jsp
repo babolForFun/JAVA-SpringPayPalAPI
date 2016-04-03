@@ -3,7 +3,7 @@
 
 
 <html>
-	<meta http-equiv="refresh" content="5;http://localhost:8080/SpringBaseLayout/" />
+	<meta http-equiv="refresh" content="5;http://[SERVER_IP]:[PORT]/SpringBaseLayout/" />
 	<jsp:include page="/WEB-INF/jsp/header.jsp"/>
 
 	<body>

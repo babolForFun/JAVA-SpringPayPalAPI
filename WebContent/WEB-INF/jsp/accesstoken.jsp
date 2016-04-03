@@ -2,7 +2,6 @@
 <html>
 	<jsp:include page="/WEB-INF/jsp/header.jsp"/>
 
-
 	<body>
     	<div class="jumbotron vertical-center">
 			<div class="container-fluid">

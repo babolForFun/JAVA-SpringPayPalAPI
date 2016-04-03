@@ -6,7 +6,7 @@
     http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">  
     
     
-    <display-name>Everything is sunshine</display-name>
+    <display-name>PayPal API</display-name>
     
     
     <servlet>  

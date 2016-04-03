@@ -42,12 +42,12 @@ public class CreatePayment {
 			Logger.getLogger(AuthenticationOAuth .class.getName());
 
 	// URLs
-	private String URL_RETURN  = "http://localhost:8080/SpringBaseLayout/web/process/success";
-	private String URL_CANCEL  = "http://localhost:8080/SpringBaseLayout/web/process/cancel";
+	private String URL_RETURN  = "http://[SERVER_IP]:[PORT]/SpringBaseLayout/web/process/success";
+	private String URL_CANCEL  = "http://[SERVER_IP]:[PORT]/SpringBaseLayout/web/process/cancel";
     private String URL_PAYMENT = "https://api.sandbox.paypal.com/v1/payments/payment";
 
     // Payment
-    private String PAYMENT_AMOUNT   = "7.47";
+    private String PAYMENT_AMOUNT   = "75.47";
     private String PAYMENT_CURRENCY = "USD";
     
     /**
