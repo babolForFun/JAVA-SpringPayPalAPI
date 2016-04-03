@@ -39,8 +39,8 @@ public class AuthenticationOAuth {
 	// Credential
 	private String CLIENT_ID 		= "[YOUR_CLIENT_ID]";
 	private String CLIENT_SECRET 	= "[YOUR_CLIENT_SECRET]";
-    
-    // URL
+	
+	// URL
 	private String URL_FIRST_OAUTH 	= "https://api.sandbox.paypal.com/v1/oauth2/token";
     
     /**
