@@ -37,8 +37,8 @@ public class AuthenticationOAuth {
 	private static final Logger logger = Logger.getLogger(AuthenticationOAuth .class.getName());
 
 	// Credential
-	private String CLIENT_ID = "AUJ4VJDgn6Q5fj1qLnIegMLOWCIN_tN96l7rZLD2CUYwMlOQ_Q-mw8tB8c8OHO79nihhUHCJ1Mdaol2a";
-    private String CLIENT_SECRET = "EIbxR3uUj7ifxeyGAkerNG6Ej5If8Nz1NSdHlv-SYu0Dnat1BToqi2i0MV4fPlZzjyedtmITzU6mWZ2r";
+	private String CLIENT_ID = "[YOUR_CLIENT_ID]";
+    private String CLIENT_SECRET = "YOUR_CLIENT_SECRET";
     
     // URL
     private String URL_FIRST_OAUTH = "https://api.sandbox.paypal.com/v1/oauth2/token";
