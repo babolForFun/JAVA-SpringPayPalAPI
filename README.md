@@ -21,11 +21,7 @@ Make an account on paypal developer
 https://developer.paypal.com
 ```
 
-Follow the steps and create your own application, than replace
+Follow the steps and create your own application, than set your value on 
 ```sh
-[CLIENT_ID]
-```
-and
-```sh
-[CLIENT_SECRET]
+[CLIENT_ID],[CLIENT_SECRET],[CLIENT_SDK_ID] and [CLIENT_SDK_ID]
 ```
