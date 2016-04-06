@@ -16,7 +16,7 @@ Integration of PayPal API using PayPal REST API
 
 ### CREDENTIALS
 
-Make an account on paypal developer
+Create an account on paypal developer
 ```sh
 https://developer.paypal.com
 ```
