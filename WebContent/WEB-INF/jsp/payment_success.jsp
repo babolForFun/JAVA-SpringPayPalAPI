@@ -21,7 +21,7 @@
 					</div>
 					<div class="col-md-4 text-center">
 						<p>
-							The payment was successful. You will redirect to the Homepage 
+							The payment has been completed successful. You will be redirected to the Homepage 
 						</p>
 					</div>
 					<div class="col-md-4">
