@@ -21,7 +21,7 @@
 					</div>
 					<div class="col-md-4 text-center">
 						<p>
-							<div style="color:red">The payment was canceled.</div><br> 
+							<div style="color:red">The payment has been canceled.</div><br> 
 							You will redirect to the Homepage 
 						</p>
 					</div>
